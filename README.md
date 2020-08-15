@@ -1,2 +1,2 @@
-# C++-Programs
+# C++ Programs
 Assignment by MyCaptain
